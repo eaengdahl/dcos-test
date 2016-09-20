@@ -2,7 +2,7 @@
   "id": "/engdahl-nginx-mesosphere",
   "cpus": 1,
   "mem": 128,
-  "instances": 1,
+  "instances": 2,
   "container": {
     "docker": {
       "image": "engdahl/dcos-test:latest",
